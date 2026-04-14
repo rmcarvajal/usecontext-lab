@@ -1,0 +1,47 @@
+{
+    "movies":[    
+        {
+    "id":0,    
+    "title": "movie 1",
+    "genre": "action",
+    "year": 1999    
+},
+    
+    {
+    "id":1,    
+    "title": "movie 2",
+    "genre": "drama",
+    "year": 1989    
+    },
+
+    {
+    "id":2,        
+    "title": "movie 3",
+    "genre": "horror",
+    "year": 2003    
+    },
+
+    {
+    "id":3,        
+    "title": "movie 4",
+    "genre": "comedy",
+    "year": 2008    
+    },   
+    
+    {
+    "id":4,        
+    "title": "movie 5",
+    "genre": "thriller",
+    "year": 1977    
+    },
+
+    {
+    "id":5,        
+    "title": "movie 6",
+    "genre": "standup",
+    "year": 2013    
+    }
+]
+
+    }
+
