@@ -7,7 +7,7 @@ export const Catalogue = () => {
 const [list, setList] = useState([])
 
      useEffect(() => {
-    fetch ("../movies.json")
+    fetch ("https://raw.githubusercontent.com/rmcarvajal/usecontext-lab/refs/heads/main/src/movies.json")
     .then((res) => res.json())
     .then ((data) => setList(data.movies))
  },[])
